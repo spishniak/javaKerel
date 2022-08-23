@@ -1,4 +1,4 @@
-package com.shpp.ispishniak.cs;
+package com.shpp.p2p.cs.ispishniak;
 
 import com.shpp.karel.KarelTheRobot;
 

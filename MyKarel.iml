@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="shpp-karel-lib" level="project" />
+    <orderEntry type="library" name="shpp-karel-lib (2)" level="project" />
   </component>
 </module>
